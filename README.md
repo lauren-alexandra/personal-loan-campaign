@@ -3,7 +3,9 @@
 <table>
 <tr>
 <td>
-  Designed the loan campaign for converting the existing customers to liability customers by building a classification model that identifies the existing customers that are more likely to buy a loan.
+  Designed the loan campaign for converting the existing customers to liability customers by building a classification model that identifies the existing customers that are more likely to buy a loan. 
+  
+  Model performance on Recall: 85.9%. The metric measures the True Positive rate (how accurately the model can identify relevant data). Recall is key; we want to decrease false negatives because the bank wants more customers to take the loan.
 </td>
 </tr>
 </table>
